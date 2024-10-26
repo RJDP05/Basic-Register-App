@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Retrofit</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="register">REGISTER</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="others">Others</string>
+    <string name="already_have_an_account">Already Have an Account! Login here</string>
+    <string name="login">LOGIN</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="hello">Hello</string>
+    <string name="name">Name</string>
+    <string name="gender">Gender</string>
+    <string name="not_register_create_your_account">Not Register! Create Your Account</string>
+    <string name="home">HOME</string>
+    <string name="users">USERS</string>
+    <string name="profile">PROFILE</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="update_user">Update User</string>
+    <string name="update">UPDATE</string>
+    <string name="update_password">Update Password</string>
+    <string name="current">Current Password</string>
+    <string name="new_pass">New Password</string>
+    <string name="log_out">Log Out</string>
+    <string name="delete">Delete</string>
+</resources>
